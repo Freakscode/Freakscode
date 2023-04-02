@@ -1,6 +1,6 @@
 Hi there, Gabriel's here!
 
-I'm a Biomedical and Software Engineering student, over here me and my team are going to 
+Freelance Software Engineer, over here me and my team are going to 
 share our projects with the WORLD!
 
 We love the idea of creating and sharing knowledge, even if it's a simple idea
